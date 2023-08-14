@@ -9,7 +9,7 @@ fn main() {
     let _ab: [u8; 5] = [1, 2, 3, 4, 5];  // data array
     let _ab_array = _ab[3]; //cara akses array
 
-
+    //menambahkan komen
     println!("nilai 1 : {nilai}");
     println!("nilai 2 : {nilai2}");
     println!("nilai 3 : {_a}, {_b}, {_c}");
